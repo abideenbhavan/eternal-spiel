@@ -1,2 +1,0 @@
-# eternal-spiel
-second attempt
