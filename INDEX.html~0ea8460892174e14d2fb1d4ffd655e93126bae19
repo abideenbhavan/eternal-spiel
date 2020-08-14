@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>READY to play old school games?</title>
+   </head>
+
+   <body>
+      <h1>
+        <font color="#0000FF">
+    <p align="justify-content">
+      READY to play old school games?</h1
+
+      <h2><font color="#FF0000">
+      LIST OF GAMES</h2>
+            </p>
+            <font color="#000000">
+    <a href="snake game.html">1.SNAKE GAME 
+    <br>
+    <br>
+    <IMG SRC="img1.jpg" width="360" height="360">
+    </a>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    
+    
+            <font color="#000000">
+    <a href="Space-Shooter-Game-master\spaceshooter.html">2.SPACE SHOOTER
+    <br>
+    <br>
+    <IMG SRC="img2.png"width="360" height="360"></a>
+    <br>
+    <br>
+    <br>
+    <br> 
+    
+           <font color="#000000">
+    <a href="tictactoe\tictactoe.html">3.TIC-TAC-TOE(WITH YOUR FRIEND)
+    <br>
+    <br>
+    <IMG SRC="img3.png"width="360" height="360"></a>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+      
+    
+   </body>
+</html>
